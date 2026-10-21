@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm nang Pháp luật cho Sinh viên",
+  "description": "Cẩm nang tra cứu và hỗ trợ pháp lý thực tiễn về việc làm thêm, thuê trọ, bảo hiểm y tế và xã hội cho sinh viên Việt Nam kèm trợ lý AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
